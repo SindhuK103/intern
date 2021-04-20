@@ -7,6 +7,7 @@ namespace new12
         static void Main(string[] args)
         {
             Console.WriteLine("Hi from c#!");
+            Console.WriteLine("hi");
         }
     }
 }
